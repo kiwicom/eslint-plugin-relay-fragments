@@ -2,6 +2,8 @@
 
 ESLint plugin to make sure tech debt is not accumulating in your GraphQL fragments.
 
+:warning: **This project is deprecated in favour of [eslint-plugin-graphql-fragments](https://github.com/kiwicom/eslint-plugin-graphql-fragments)**
+
 ## Installation
 
 1. Install the package
